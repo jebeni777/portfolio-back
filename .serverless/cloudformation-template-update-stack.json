@@ -158,7 +158,7 @@
           "S3Bucket": {
             "Ref": "ServerlessDeploymentBucket"
           },
-          "S3Key": "serverless/lambda-mailer/dev/1576605977016-2019-12-17T18:06:17.016Z/lambda-mailer.zip"
+          "S3Key": "serverless/lambda-mailer/dev/1576615436187-2019-12-17T20:43:56.187Z/lambda-mailer.zip"
         },
         "FunctionName": "lambda-mailer-dev-sendJSON",
         "Handler": "handler.sendJSON",
@@ -201,7 +201,7 @@
           "S3Bucket": {
             "Ref": "ServerlessDeploymentBucket"
           },
-          "S3Key": "serverless/lambda-mailer/dev/1576605977016-2019-12-17T18:06:17.016Z/lambda-mailer.zip"
+          "S3Key": "serverless/lambda-mailer/dev/1576615436187-2019-12-17T20:43:56.187Z/lambda-mailer.zip"
         },
         "FunctionName": "lambda-mailer-dev-sendFormEncoded",
         "Handler": "handler.sendFormEncoded",
@@ -463,7 +463,7 @@
         "MethodResponses": []
       }
     },
-    "ApiGatewayDeployment1576605970154": {
+    "ApiGatewayDeployment1576615418848": {
       "Type": "AWS::ApiGateway::Deployment",
       "Properties": {
         "RestApiId": {
